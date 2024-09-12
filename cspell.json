@@ -75,6 +75,7 @@
     "lvalues",
     "masterchain",
     "maxint",
+    "Merkle",
     "minmax",
     "mintable",
     "mktemp",
@@ -90,6 +91,7 @@
     "Offchain",
     "Parens",
     "pinst",
+    "PLDDICT",
     "PLDIX",
     "PLDREF",
     "PLDSLICEX",
@@ -97,6 +99,7 @@
     "POSIX",
     "postpack",
     "prando",
+    "PUSHINT",
     "PUSHREF",
     "PUSHSLICE",
     "RANDU",
@@ -118,7 +121,9 @@
     "SENDRAWMSG",
     "SENDMSG",
     "seqno",
+    "SETCONTARGS",
     "SETINDEXVARQ",
+    "SETNUMARGS",
     "shiki",
     "SREFS",
     "SREMPTY",
@@ -175,6 +180,7 @@
     "src/test/e2e-emulated/contracts/strings.tact",
     "src/test/compilation-fail/fail-const-eval.spec.ts",
     "src/test/e2e-emulated/getter-names-conflict.spec.ts",
+    "src/test/exit-codes/contracts/compute-phase-errors.tact",
     "stdlib/stdlib.fc"
   ]
 }
